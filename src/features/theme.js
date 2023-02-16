@@ -14,6 +14,6 @@ const initialStateValue = '';
     }
 })
 
-export const {} = themeSlice.actions;
+export const {changeColor} = themeSlice.actions;
 
 export default themeSlice.reducer;
